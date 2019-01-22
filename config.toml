@@ -2,13 +2,13 @@ baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Eric Moyer"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+#disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    author = "Calin Tataru"
-    description = "(AKA ridercoach)<br>engineer, programmer, data scientist"
+    author = "Eric Moyer"
+    description = "(AKA ridercoach)<br><br>Engineer, Programmer, Data Scientist"
     githubUsername = "#"
     accent = "red"
     showBorder = true
