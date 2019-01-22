@@ -1,0 +1,35 @@
+---
+title: Kaggle RSNA Pneumonia Detection Challenge
+author: Eric Moyer
+date: '2018-10-30'
+tags:
+  - Machine Learning
+  - Deep Learning
+  - Neural Networks
+  - YOLO
+slug: kaggle-rsna-pneumonia-detection-challenge
+description: Training YOLOv2 to scan chest X-rays
+weight: 0
+---
+
+Most of us probably regard pneumonia as serious but not life-threatening, but 
+for the elderly and for young children, it can be fatal. Also, as you 
+may gather from the image below, it is not easily diagnosed. The Radiological 
+Society of North America asked Kaggle to help.
+
+I used the Darknet framework with the "regular" version of the YOLOv2 model.
+I started with the yolov2.weights file and trained for 12,300 iterations
+with 2000 (1400 training, 600 test) of the labeled images provided by RSNA.
+I did the training on an AWS p2.xlarge EC2 instance, which took
+about 24 hours. I scored .098 (top score .260). 
+
+In the sample x-ray below, the radiologist diagnosis is shown in blue, 
+and the prediction of the model in pink.  This particular image, though 
+from the labeled training set, was not used for training the model, so 
+it is a fair assessment.
+
+Further details about my procedure are available
+[here](https://github.com/ridercoach/rsna2018).
+
+![](/project/kaggle-rsna-pneumonia-detection-challenge_files/rsna-sample.png)
+
