@@ -9,6 +9,11 @@ tags:
 slug: dropping-single-value-columns-in-pandas
 ---
 
-Here is a link to the [Jupyter notebook](https://github.com/ridercoach/bamboo/blob/master/Drop-Single-Val-Cols.ipynb).
+Sometimes as you boil your data down, you end up with columns that either contain no data at all (or very little) or contain the same value in every row. Columns like this are all noise and no signal, and I generally like to get rid of them.
+
+Dropping empty or nearly empty columns is easy, but what about columns that
+contain the same non-NaN value everywhere? This [Jupyter
+notebook](https://github.com/ridercoach/bamboo/blob/master/Drop-Single-Val-Cols.ipynb)
+shows one way to do it.
 
 
