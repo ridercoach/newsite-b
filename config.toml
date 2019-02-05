@@ -1,6 +1,6 @@
 baseURL = "https://zealous-villani-797d2c.netlify.com/"
 languageCode = "en-us"
-title = "Eric Moyer"
+title = "Eric N. Moyer"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Alegreya" # should match the name on Google Fonts!
+    font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]

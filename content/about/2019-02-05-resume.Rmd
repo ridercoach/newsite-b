@@ -1,0 +1,10 @@
+---
+title: Resume
+author: Eric Moyer
+date: '2019-02-05'
+slug: resume
+categories: []
+tags: []
+---
+
+<embed src="/emoyer_resume_20190205.pdf" width="800px" height="1100px" />
