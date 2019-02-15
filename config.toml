@@ -1,4 +1,4 @@
-baseURL = "https://ridercoach.rbind.com/"
+baseURL = "https://ridercoach.rbind.io/"
 languageCode = "en-us"
 title = "Eric N. Moyer"
 theme = "minimal"
