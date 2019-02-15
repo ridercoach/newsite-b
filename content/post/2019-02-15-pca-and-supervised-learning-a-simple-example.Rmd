@@ -1,0 +1,16 @@
+---
+title: 'PCA and Supervised Learning: A Simple Example'
+author: Eric Moyer
+date: '2019-02-15'
+slug: pca-and-supervised-learning-a-simple-example
+categories: []
+tags:
+  - PCA
+  - Machine Learning
+  - Tufte Format
+---
+
+I had fun putting together this little <a href="/pca-tutorial.html">exploration</a> 
+of Principal Component Analysis, which was inspired by Luke Hayden's excellent 
+tutorial on DataCamp.
+
