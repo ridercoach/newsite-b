@@ -30,9 +30,9 @@ interesting thing I did recently in this job was moving the company into the AWS
 Cloud.
 
 For almost two years, I've been going deeper into data science by exploring
-areas new to me, such as Machine Learning and Computional Neuroscience, and in
-the process strengthening my proficiency in subjects I learned years ago as an
-engineer (statistics, linear algebra, vector calculus, etc.)
+areas new to me, such as Machine Learning, and in the process strengthening my
+proficiency in subjects I learned years ago as an engineer (statistics, linear
+algebra, vector calculus, etc.)
 
 I'm looking for opportunities to bring order out of chaos and help others grow.
 
